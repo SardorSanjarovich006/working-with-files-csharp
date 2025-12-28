@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Domain\bin\Debug\net9.0\WorkingWithFileExcel.Domain.deps.json
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Domain\bin\Debug\net9.0\WorkingWithFileExcel.Domain.dll
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Domain\bin\Debug\net9.0\WorkingWithFileExcel.Domain.pdb
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Domain\obj\Debug\net9.0\WorkingWithFileExcel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Domain\obj\Debug\net9.0\WorkingWithFileExcel.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Domain\obj\Debug\net9.0\WorkingWithFileExcel.Domain.AssemblyInfo.cs
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Domain\obj\Debug\net9.0\WorkingWithFileExcel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Domain\obj\Debug\net9.0\WorkingWithFileExcel.Domain.sourcelink.json
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Domain\obj\Debug\net9.0\WorkingWithFileExcel.Domain.dll
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Domain\obj\Debug\net9.0\refint\WorkingWithFileExcel.Domain.dll
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Domain\obj\Debug\net9.0\WorkingWithFileExcel.Domain.pdb
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Domain\obj\Debug\net9.0\ref\WorkingWithFileExcel.Domain.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="WorkingWithFileExcel.Aplication/WorkingWithFileExcel.Aplication.csproj" />
+  <Project Path="WorkingWithFileExcel.Client/WorkingWithFileExcel.Client.csproj" />
+  <Project Path="WorkingWithFileExcel.Domain/WorkingWithFileExcel.Domain.csproj" />
+  <Project Path="WorkingWithFileExcel.Infrastucture/WorkingWithFileExcel.Infrastucture.csproj" />
+</Solution>

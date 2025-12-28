@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\bin\Debug\net9.0\WorkingWithFileExcel.Infrastucture.deps.json
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\bin\Debug\net9.0\WorkingWithFileExcel.Infrastucture.dll
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\bin\Debug\net9.0\WorkingWithFileExcel.Infrastucture.pdb
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\bin\Debug\net9.0\WorkingWithFileExcel.Domain.dll
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\bin\Debug\net9.0\WorkingWithFileExcel.Domain.pdb
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\obj\Debug\net9.0\WorkingWithFileExcel.Infrastucture.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\obj\Debug\net9.0\WorkingWithFileExcel.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\obj\Debug\net9.0\WorkingWithFileExcel.Infrastucture.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\obj\Debug\net9.0\WorkingWithFileExcel.Infrastucture.AssemblyInfo.cs
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\obj\Debug\net9.0\WorkingWithFileExcel.Infrastucture.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\obj\Debug\net9.0\WorkingWithFileExcel.Infrastucture.sourcelink.json
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\obj\Debug\net9.0\WorkingW.114D4E05.Up2Date
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\obj\Debug\net9.0\WorkingWithFileExcel.Infrastucture.dll
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\obj\Debug\net9.0\refint\WorkingWithFileExcel.Infrastucture.dll
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\obj\Debug\net9.0\WorkingWithFileExcel.Infrastucture.pdb
+C:\Users\Asus\Desktop\VS 2026\WorkingWithFileExcel\WorkingWithFileExcel.Infrastucture\obj\Debug\net9.0\ref\WorkingWithFileExcel.Infrastucture.dll

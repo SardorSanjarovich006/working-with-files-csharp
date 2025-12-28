@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAAA78A-9071-1DB3-D7FC-16505880CC0D}|WorkingWithFileExcel.Client\\WorkingWithFileExcel.Client.csproj|c:\\users\\asus\\desktop\\vs 2026\\workingwithfileexcel\\workingwithfileexcel.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAAA78A-9071-1DB3-D7FC-16505880CC0D}|WorkingWithFileExcel.Client\\WorkingWithFileExcel.Client.csproj|solutionrelative:workingwithfileexcel.client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F071DCC5-26C3-3220-DD21-1DA3CE352D83}|WorkingWithFileExcel.Domain\\WorkingWithFileExcel.Domain.csproj|c:\\users\\asus\\desktop\\vs 2026\\workingwithfileexcel\\workingwithfileexcel.domain\\models\\externalattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F071DCC5-26C3-3220-DD21-1DA3CE352D83}|WorkingWithFileExcel.Domain\\WorkingWithFileExcel.Domain.csproj|solutionrelative:workingwithfileexcel.domain\\models\\externalattendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785D267-6EC8-4812-A69A-B6800146BCD7}|WorkingWithFileExcel.Infrastucture\\WorkingWithFileExcel.Infrastucture.csproj|c:\\users\\asus\\desktop\\vs 2026\\workingwithfileexcel\\workingwithfileexcel.infrastucture\\data\\excelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F785D267-6EC8-4812-A69A-B6800146BCD7}|WorkingWithFileExcel.Infrastucture\\WorkingWithFileExcel.Infrastucture.csproj|solutionrelative:workingwithfileexcel.infrastucture\\data\\excelcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203E075E-7034-83B1-4659-D064B09FD9B8}|WorkingWithFileExcel.Aplication\\WorkingWithFileExcel.Aplication.csproj|c:\\users\\asus\\desktop\\vs 2026\\workingwithfileexcel\\workingwithfileexcel.aplication\\services\\externalattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203E075E-7034-83B1-4659-D064B09FD9B8}|WorkingWithFileExcel.Aplication\\WorkingWithFileExcel.Aplication.csproj|solutionrelative:workingwithfileexcel.aplication\\services\\externalattendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203E075E-7034-83B1-4659-D064B09FD9B8}|WorkingWithFileExcel.Aplication\\WorkingWithFileExcel.Aplication.csproj|c:\\users\\asus\\desktop\\vs 2026\\workingwithfileexcel\\workingwithfileexcel.aplication\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{203E075E-7034-83B1-4659-D064B09FD9B8}|WorkingWithFileExcel.Aplication\\WorkingWithFileExcel.Aplication.csproj|solutionrelative:workingwithfileexcel.aplication\\services\\attendanceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAAA78A-9071-1DB3-D7FC-16505880CC0D}|WorkingWithFileExcel.Client\\WorkingWithFileExcel.Client.csproj|c:\\users\\asus\\desktop\\vs 2026\\workingwithfileexcel\\workingwithfileexcel.client\\workingwithfileexcel.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AEAAA78A-9071-1DB3-D7FC-16505880CC0D}|WorkingWithFileExcel.Client\\WorkingWithFileExcel.Client.csproj|solutionrelative:workingwithfileexcel.client\\workingwithfileexcel.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{203E075E-7034-83B1-4659-D064B09FD9B8}|WorkingWithFileExcel.Aplication\\WorkingWithFileExcel.Aplication.csproj|c:\\users\\asus\\desktop\\vs 2026\\workingwithfileexcel\\workingwithfileexcel.aplication\\workingwithfileexcel.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{203E075E-7034-83B1-4659-D064B09FD9B8}|WorkingWithFileExcel.Aplication\\WorkingWithFileExcel.Aplication.csproj|solutionrelative:workingwithfileexcel.aplication\\workingwithfileexcel.aplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F071DCC5-26C3-3220-DD21-1DA3CE352D83}|WorkingWithFileExcel.Domain\\WorkingWithFileExcel.Domain.csproj|c:\\users\\asus\\desktop\\vs 2026\\workingwithfileexcel\\workingwithfileexcel.domain\\workingwithfileexcel.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F071DCC5-26C3-3220-DD21-1DA3CE352D83}|WorkingWithFileExcel.Domain\\WorkingWithFileExcel.Domain.csproj|solutionrelative:workingwithfileexcel.domain\\workingwithfileexcel.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\.nuget\\packages\\epplus\\4.5.3.3\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F785D267-6EC8-4812-A69A-B6800146BCD7}|WorkingWithFileExcel.Infrastucture\\WorkingWithFileExcel.Infrastucture.csproj|c:\\users\\asus\\desktop\\vs 2026\\workingwithfileexcel\\workingwithfileexcel.infrastucture\\workingwithfileexcel.infrastucture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F785D267-6EC8-4812-A69A-B6800146BCD7}|WorkingWithFileExcel.Infrastucture\\WorkingWithFileExcel.Infrastucture.csproj|solutionrelative:workingwithfileexcel.infrastucture\\workingwithfileexcel.infrastucture.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F071DCC5-26C3-3220-DD21-1DA3CE352D83}|WorkingWithFileExcel.Domain\\WorkingWithFileExcel.Domain.csproj|c:\\users\\asus\\desktop\\vs 2026\\workingwithfileexcel\\workingwithfileexcel.domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F071DCC5-26C3-3220-DD21-1DA3CE352D83}|WorkingWithFileExcel.Domain\\WorkingWithFileExcel.Domain.csproj|solutionrelative:workingwithfileexcel.domain\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F071DCC5-26C3-3220-DD21-1DA3CE352D83}|WorkingWithFileExcel.Domain\\WorkingWithFileExcel.Domain.csproj|c:\\users\\asus\\desktop\\vs 2026\\workingwithfileexcel\\workingwithfileexcel.domain\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F071DCC5-26C3-3220-DD21-1DA3CE352D83}|WorkingWithFileExcel.Domain\\WorkingWithFileExcel.Domain.csproj|solutionrelative:workingwithfileexcel.domain\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkingWithFileExcel.Client",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Client\\WorkingWithFileExcel.Client.csproj",
+              "RelativeDocumentMoniker": "WorkingWithFileExcel.Client\\WorkingWithFileExcel.Client.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Client\\WorkingWithFileExcel.Client.csproj",
+              "RelativeToolTip": "WorkingWithFileExcel.Client\\WorkingWithFileExcel.Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T18:21:09.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorkingWithFileExcel.Aplication",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Aplication\\WorkingWithFileExcel.Aplication.csproj",
+              "RelativeDocumentMoniker": "WorkingWithFileExcel.Aplication\\WorkingWithFileExcel.Aplication.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Aplication\\WorkingWithFileExcel.Aplication.csproj",
+              "RelativeToolTip": "WorkingWithFileExcel.Aplication\\WorkingWithFileExcel.Aplication.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T18:15:21.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExcelContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Infrastucture\\Data\\ExcelContext.cs",
+              "RelativeDocumentMoniker": "WorkingWithFileExcel.Infrastucture\\Data\\ExcelContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Infrastucture\\Data\\ExcelContext.cs",
+              "RelativeToolTip": "WorkingWithFileExcel.Infrastucture\\Data\\ExcelContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:56:22.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExternalAttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Aplication\\Services\\ExternalAttendanceService.cs",
+              "RelativeDocumentMoniker": "WorkingWithFileExcel.Aplication\\Services\\ExternalAttendanceService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Aplication\\Services\\ExternalAttendanceService.cs",
+              "RelativeToolTip": "WorkingWithFileExcel.Aplication\\Services\\ExternalAttendanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:26:47.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AttendanceService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Aplication\\Services\\AttendanceService.cs",
+              "RelativeDocumentMoniker": "WorkingWithFileExcel.Aplication\\Services\\AttendanceService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Aplication\\Services\\AttendanceService.cs",
+              "RelativeToolTip": "WorkingWithFileExcel.Aplication\\Services\\AttendanceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T15:25:03.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkingWithFileExcel.Infrastucture.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Infrastucture\\WorkingWithFileExcel.Infrastucture.csproj",
+              "RelativeDocumentMoniker": "WorkingWithFileExcel.Infrastucture\\WorkingWithFileExcel.Infrastucture.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Infrastucture\\WorkingWithFileExcel.Infrastucture.csproj",
+              "RelativeToolTip": "WorkingWithFileExcel.Infrastucture\\WorkingWithFileExcel.Infrastucture.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T15:07:42.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\Asus\\.nuget\\packages\\epplus\\4.5.3.3\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\epplus\\4.5.3.3\\readme.txt",
+              "ToolTip": "C:\\Users\\Asus\\.nuget\\packages\\epplus\\4.5.3.3\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\epplus\\4.5.3.3\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-12-28T15:11:47.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExternalAttendance.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Domain\\Models\\ExternalAttendance.cs",
+              "RelativeDocumentMoniker": "WorkingWithFileExcel.Domain\\Models\\ExternalAttendance.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Domain\\Models\\ExternalAttendance.cs",
+              "RelativeToolTip": "WorkingWithFileExcel.Domain\\Models\\ExternalAttendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:54:48.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Domain\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "WorkingWithFileExcel.Domain\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Domain\\Models\\Student.cs",
+              "RelativeToolTip": "WorkingWithFileExcel.Domain\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:54:12.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Domain\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "WorkingWithFileExcel.Domain\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Domain\\Models\\Attendance.cs",
+              "RelativeToolTip": "WorkingWithFileExcel.Domain\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:53:20.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WorkingWithFileExcel.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Domain\\WorkingWithFileExcel.Domain.csproj",
+              "RelativeDocumentMoniker": "WorkingWithFileExcel.Domain\\WorkingWithFileExcel.Domain.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Domain\\WorkingWithFileExcel.Domain.csproj",
+              "RelativeToolTip": "WorkingWithFileExcel.Domain\\WorkingWithFileExcel.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-28T14:50:35.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Client\\Program.cs",
+              "RelativeDocumentMoniker": "WorkingWithFileExcel.Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VS 2026\\WorkingWithFileExcel\\WorkingWithFileExcel.Client\\Program.cs*",
+              "RelativeToolTip": "WorkingWithFileExcel.Client\\Program.cs*",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwFEAAADFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T14:42:18.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

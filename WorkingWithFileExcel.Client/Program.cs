@@ -1,12 +1,17 @@
 ﻿using WorkingWithFileExcel.Aplication.Services;
 using WorkingWithFileExcel.Domain.Models;
+using WorkingWithFileExcel.Infrastucture.Data;
 
 class Program
 {
     static void Main(string[] args)
     {
-        ExternalAttendanceService service = new ExternalAttendanceService();
+        ExcelContext context = new ExcelContext();
 
+        ExternalAttendanceService service = new ExternalAttendanceService(context);
+        StudentService studentService = new StudentService();
+
+       
         while (true)
         {
             Console.Clear();
@@ -20,6 +25,10 @@ class Program
             Console.WriteLine("5. Kutish zalida bo‘lganlarni ko‘rish");
             Console.WriteLine("6. Eng ko‘p qatnashganlarni ko‘rish (Top 5)");
             Console.WriteLine("7. Qatnashuvchilar sonini ko‘rish");
+            Console.WriteLine("8. Id bo'yicha qidirish");
+            Console.WriteLine("9. ID bo'yicha o'chirish");
+            Console.WriteLine("10. Student qo'shish");
+            Console.WriteLine("11. Yangilangan jadvalni chiqarish");
             Console.WriteLine("0. Dasturdan chiqish");
             Console.WriteLine("----------------------------------------");
             Console.Write("Tanlovingizni kiriting: ");
@@ -60,7 +69,45 @@ class Program
 
                 case "7":
                     Console.WriteLine($"Jami qatnashuvchilar soni: {service.GetCount()}");
-                    Console.ReadKey();
+                   Console.ReadKey();
+                    break;
+                case "8":
+                    Console.Write("ID (Code) kiriting: ");
+                    string id = Console.ReadLine();
+                    var byId = studentService.GetByCode(id);
+                    if(byId.Count>0)
+                    {
+                        ShowList(byId);
+
+                    }
+                    else
+                    {
+                        Console.WriteLine("Ma'lumot topilmadi !");
+                        Console.WriteLine("\nDavom ettirish uchun tugma bosing...");
+                        Console.ReadKey();
+                    }
+
+                    break;
+
+                case "9":
+                    Console.Write("ID (Code) kiriting: ");
+                    string delId = Console.ReadLine();
+                    studentService.DeleteById(delId);
+                    Console.WriteLine("Student o'chirildi...");
+                    break;
+
+                case "10":
+                    ExternalAttendance exat=new ExternalAttendance();
+                    Console.WriteLine("Ism familya code ni kiriting");
+                    exat.FullNameWithCode= Console.ReadLine();
+                    Console.WriteLine("Email kiriting:");
+                    exat.Email= Console.ReadLine();
+                    studentService.AddStudent(exat);
+                    Console.WriteLine("Student muvaffaqiyatli qo'shildi. Davom ettirish uchun xohlagan tugmani bosing...");
+                    break;
+
+                case "11":
+                    ShowList(service.GetAll());
                     break;
 
                 case "0":
@@ -86,7 +133,6 @@ class Program
 
     static void ShowSingle(ExternalAttendance? item)
     {
-        Console.Clear();
 
         if (item == null)
         {

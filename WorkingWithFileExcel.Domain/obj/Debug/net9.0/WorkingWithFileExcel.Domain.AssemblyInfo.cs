@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WorkingWithFileExcel.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca6da06fb67bf02cc104d5742ef47e82302040b3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e00345108dce2f1a0f0e284d14a6a69dc56f7cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("WorkingWithFileExcel.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WorkingWithFileExcel.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,9 +12,9 @@ namespace WorkingWithFileExcel.Aplication.Services
     {
         private readonly ExcelContext context;
 
-        public ExternalAttendanceService()
+        public ExternalAttendanceService(ExcelContext context)
         {
-            context = new ExcelContext();
+            this.context = context;
         }
 
         public List<ExternalAttendance> GetAll() => context.GetExternalAttendances();
@@ -33,12 +33,12 @@ namespace WorkingWithFileExcel.Aplication.Services
 
         public List<ExternalAttendance> GetGuests()
         {
-            return context.GetExternalAttendances().Where(x => x.IsHost == "Да").ToList();
+            return context.GetExternalAttendances().Where(x => x.IsHost == "Ha").ToList();
         }
 
         public List<ExternalAttendance> GetWaitingRoom()
         {
-            return context.GetExternalAttendances().Where(x => x.IsWaiting == "Да").ToList();
+            return context.GetExternalAttendances().Where(x => x.IsWaiting == "Ha").ToList();
         }
 
         public int GetCount()
@@ -53,6 +53,8 @@ namespace WorkingWithFileExcel.Aplication.Services
                 .Take(5)
                 .ToList();
         }
+
+
 
 
     }
